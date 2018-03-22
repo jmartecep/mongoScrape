@@ -1,0 +1,33 @@
+{
+  "name": "mongoscrape",
+  "version": "1.0.0",
+  "description": "week18homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmartecep/mongoScrape.git"
+  },
+  "author": "Jamie Pena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmartecep/mongoScrape/issues"
+  },
+  "homepage": "https://github.com/jmartecep/mongoScrape#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11",
+    "handlebars-helper-css": "^0.1.0",
+    "heroku.js": "^0.12.2",
+    "mongodb": "^3.0.4",
+    "mongoose": "^5.0.11",
+    "path": "^0.12.7",
+    "request": "^2.85.0"
+  }
+}
